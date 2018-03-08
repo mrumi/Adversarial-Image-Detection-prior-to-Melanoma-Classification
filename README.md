@@ -1,4 +1,4 @@
-# deep-learning
+# Adversarial-Image-Detection-prio-to-Melanoma-Classification
 
 Data Source: International Skin Imaging Collaboration (ISIC) archive is used as data source. 
 
